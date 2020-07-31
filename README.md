@@ -20,7 +20,7 @@
 - Cybershield 🤫 
 
 ### 📝 What I've wrote
-- [MISP Threat Intelligence Summit 0x05 at hack.lu 2019](https://github.com/LDO-CERT/MISP-Summit-05)
+- [MISP Threat Intelligence Summit 0x05 at hack.lu 2019](https://ldo-cert.github.io/MISP-Summit-05/#/home)
 
 ### 📖 What am currently learning
 - Full Stack Web Development

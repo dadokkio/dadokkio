@@ -12,7 +12,7 @@
 - [Leonardo@CERT [LABS ⚗️]](https://www.leonardocompany.com/en/cert)
 
 ### 💻 What am currently working on
-- Orochi 🐉 *coming soon*
+- [Orochi](https://github.com/LDO-CERT/orochi) 🐉
 - MATE 🦠 *coming soon*
 - [MansToEs](https://github.com/LDO-CERT/mans_to_es) ⏱️
 - [TheHive](https://thehive-project.org/) 🐝
